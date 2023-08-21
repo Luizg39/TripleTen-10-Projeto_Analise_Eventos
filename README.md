@@ -1,9 +1,9 @@
 # TripleTen-10-Projeto_Analise_Eventos
 
 
-Projeto Integrado 2
+## Projeto Integrado 2
 
-Luiz Guilherme Graciano Ribeiro Pereira
+
 
 A atividade consiste em um trabalho para em uma startup ficticia que vende produtos alimentícios. Você precisa analisar o comportamento do usuário para o aplicativo da empresa.
 
