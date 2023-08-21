@@ -38,3 +38,10 @@ OffersScreenAppear: Indica o momento em que um usuário acessou a tela de oferta
 CartScreenAppear: Indica o momento em que um usuário visualizou o carrinho de compras no aplicativo. O evento provavelmente é acionado quando o usuário acessa a página do carrinho para revisar os itens selecionados.
 
 PaymentScreenSuccessful: Indica o momento em que um usuário concluiu com sucesso uma transação de pagamento no aplicativo. Esse evento geralmente ocorre após o usuário inserir as informações de pagamento e a transação ser processada com êxito.
+
+#Conclusão
+
+Os usuário médio ao entrar no site, faz a seguinte sequência, visualiza a tela principal, seguido da tela de ofertas, com a visualização do carrinho de compras e por fim a finalização do pagamento com a compra do produto. Aqueles usuários que virão o tutorial antes de acessar a tela principal tem uma chance maior de comprar. Logo, para melhorar a conversão, devesse incentivar o usuário a fazer o tutorial.
+
+O teste A/B demonstrou que a mudança nas fontes do aplicativo, não faz os usuários acessarem nenhum evento com mais frequência, e não aumenta o nível de conversão.
+
