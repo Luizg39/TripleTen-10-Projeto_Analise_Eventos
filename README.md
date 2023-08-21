@@ -22,7 +22,7 @@ Cada entrada de diário é uma ação do usuário ou um evento.
     ExpId — número do experimento
 
 
-# Conclusão
+## Conclusão
 
 Os usuário médio ao entrar no site, faz a seguinte sequência, visualiza a tela principal, seguido da tela de ofertas, com a visualização do carrinho de compras e por fim a finalização do pagamento com a compra do produto. Aqueles usuários que virão o tutorial antes de acessar a tela principal tem uma chance maior de comprar. Logo, para melhorar a conversão, devesse incentivar o usuário a fazer o tutorial.
 
